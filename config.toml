@@ -1,0 +1,37 @@
+baseURL = "https://example.com/"
+description = "sdxzc "
+headline = "ottitototot"
+languageCode = "en-gb"
+theme = "papaya"
+title = "Homepage"
+url = "dxszc"
+[[menu.main]]
+name = "Contact us"
+pre = "partners"
+url = "/contact-us/"
+weight = 4
+[[menu.main]]
+name = "Partners"
+pre = "partners"
+url = "/partners/"
+weight = 3
+[[menu.main]]
+name = "Industries"
+pre = "industries"
+url = "/industries/"
+weight = 2
+[[menu.main]]
+name = "Services"
+pre = "services"
+url = "/services/"
+weight = 1
+[params]
+authorName = "made by Roma"
+dateFormat = "Jan 2, 2006"
+googleAdSense = "ca-pub-0000000000000000"
+googleAnalytics = "UA-000000000-1"
+[social]
+twitter = "Emaxple"
+[taxonomies]
+tag = "tags"
+[[highlights]]
